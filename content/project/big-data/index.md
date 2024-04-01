@@ -1,9 +1,9 @@
 ---
-title: Cloud containerization
-summary: Deploying full-stack application in kubernetes.
+title: Big data
+summary: Big data solution to analyse footballer performance.
 tags:
-  - Cloud
-date: '2022-04-27T00:00:00Z'
+  - Big Data
+date: '2024-02-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
